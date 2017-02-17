@@ -4,6 +4,7 @@
   "description": "Local File Management",
   "main": "index.html",
   "scripts": {
+    "start": "nw",
     "test": "npm test"
   },
   "repository": {
@@ -18,10 +19,21 @@
     "bootstrap",
     "bootflat"
   ],
+  "window": {
+    "width": 800,
+    "height": 600
+  },
   "author": "Vu Phuc Tho",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vuphuctho/hanoi-medicine/issues"
   },
-  "homepage": "https://github.com/vuphuctho/hanoi-medicine#readme"
+  "homepage": "https://github.com/vuphuctho/hanoi-medicine#readme",
+  "devDependencies": {
+    "babel-preset-es2017": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "babelify": "^7.3.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
 }

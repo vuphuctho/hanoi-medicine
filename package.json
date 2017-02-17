@@ -1,0 +1,27 @@
+{
+  "name": "hanoi-medicine",
+  "version": "1.0.0",
+  "description": "Local File Management",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuphuctho/hanoi-medicine.git"
+  },
+  "keywords": [
+    "hanoi-medicine",
+    "desktop-app",
+    "nw",
+    "react",
+    "bootstrap",
+    "bootflat"
+  ],
+  "author": "Vu Phuc Tho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuphuctho/hanoi-medicine/issues"
+  },
+  "homepage": "https://github.com/vuphuctho/hanoi-medicine#readme"
+}
